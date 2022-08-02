@@ -2,4 +2,4 @@ project: dtc
 target: dtc
 
 cmds:
-  - cmd: /dtc/dtc @@
+  - cmd: /install/root/bin/dtc @@
